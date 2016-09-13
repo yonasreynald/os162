@@ -1,0 +1,7 @@
+Week 01 Task description :
+
+-Log in to Badak
+
+-Create and edit file and folder using Git
+
+-Push and pull repository using git 
