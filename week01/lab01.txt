@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 yonas.reynald StafCS 4096 Sep 13 11:06 .
+drwx--x--x  3 yonas.reynald StafCS 4096 Sep 13 10:34 ..
+drwxr-xr-x  8 yonas.reynald StafCS 4096 Sep 13 11:04 .git
+-rw-r--r--  1 yonas.reynald StafCS    0 Sep 13 11:06 lab01.txt
+-rw-r--r--  1 yonas.reynald StafCS    7 Sep 13 10:34 README.md
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:45 SandBox
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 11:02 week00
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:38 week01
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:38 week02
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:39 week03
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:39 week04
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:40 week05
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:42 week06
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:42 week07
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:43 week08
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:43 week09
+drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:43 week10
+/home/fasilkom/mahasiswa/y/yonas.reynald/os162/week01
