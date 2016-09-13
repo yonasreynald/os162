@@ -17,3 +17,4 @@ drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:43 week08
 drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:43 week09
 drwxr-xr-x  2 yonas.reynald StafCS 4096 Sep 13 10:43 week10
 /home/fasilkom/mahasiswa/y/yonas.reynald/os162/week01
+Today is 13 Sep 2016 at 11:30:22
